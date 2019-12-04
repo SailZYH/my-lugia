@@ -9,7 +9,7 @@ import styled from 'styled-components';
 
 
 
-export default class Admin extends Component {
+export default class Position extends Component {
     render(){
         return (
             <div className={"contianer"} style={{width:'100%',height:'100%',display:'flex',flexDirection:'row'}}>
